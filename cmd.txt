@@ -1,1 +1,4 @@
 this is first git command program
+adding some text in git command file 
+
+checking newbranch
