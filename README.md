@@ -1,0 +1,2 @@
+# allcommands
+all
