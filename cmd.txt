@@ -3,4 +3,4 @@ adding some text in git command file
 
 checking newbranch
 
-adding the branch 
+adding the branch nmame
